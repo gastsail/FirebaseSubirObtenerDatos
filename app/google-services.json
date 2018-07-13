@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "280710333314",
+    "firebase_url": "https://fir-antut.firebaseio.com",
+    "project_id": "fir-antut",
+    "storage_bucket": "fir-antut.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280710333314:android:78c998924226f173",
+        "android_client_info": {
+          "package_name": "com.example.gastonsaillen.firebaseantut"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280710333314-cr7kehb5hheci2ifc7poe3pb0in3vjbb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gastonsaillen.firebaseantut",
+            "certificate_hash": "d018762e26b639ce747826645aee8f53822a647f"
+          }
+        },
+        {
+          "client_id": "280710333314-5k2mjj8bo0kj3al0qg09cqad4jdoqqi1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLlfloel0leQ--ArfvZH-rS8qnqh38-ZI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280710333314-5k2mjj8bo0kj3al0qg09cqad4jdoqqi1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
